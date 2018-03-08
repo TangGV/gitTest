@@ -8,6 +8,6 @@ public class test{
   }
    
   pubic void test(){
-  
-  }
+  12
+  }1
 }
