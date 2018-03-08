@@ -1,3 +1,4 @@
+
 public class test{
 
   public static void main(){
@@ -5,5 +6,8 @@ public class test{
     System.out.printf("hello word");
     
   }
-
+   
+  pubic void test(){
+  
+  }
 }
